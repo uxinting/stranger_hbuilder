@@ -110,3 +110,7 @@ pre {
 header .glyphicon {
 	color: #007AFF;
 }
+
+header .glyphicon:hover {
+	cursor: pointer;
+}
